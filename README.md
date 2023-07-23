@@ -28,7 +28,7 @@ This option is recommended as it will make keeping your repository up to date mu
 1. Select "Clone Existing Repository".
 1. In the Source location put `https://github.com/Haidra-Org/AI-Horde-Worker.git`
 1. In the target directory, browse to any folder you want to put the horde worker folder.
-1. Press `Clone`
+1. Press `Clone`. The repository should be cloned in the target directory you specified.
 1. In the new window that opens up, on the top menu, go to `Repository > Git Bash`. A new terminal window will open.
 1. continue with the [Running](#running) instructions
 
